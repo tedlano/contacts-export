@@ -4,7 +4,7 @@
 ## Microsoft Graph API
 Use Microsoft Graph API to extract all contacts
 
-1. [Register an application on Azure AD](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate)
+1. [Register an application on Azure Portal](https://learn.microsoft.com/en-us/entra/identity-platform/quickstart-register-app?tabs=certificate)
 2. Install python packages in requirements.txt
 3. Modify sample.env and rename to .env
 4. Run the script `scripts/get_outlook_contacts.py`
