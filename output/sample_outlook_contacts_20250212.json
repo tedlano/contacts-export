@@ -1,0 +1,102 @@
+[
+    {
+        "@odata.etag": "W/\"EQAAABYAAAB5BvxSnPD8TZimZWxeuS7LAACminn+\"",
+        "id": "AAMkAGU5NjgzOTYzLTk0MDgtNDk0NC05ODFlLWI4M2NiNWU1ZmVlZgBGAAAAAADlWSRYQWY6RYskcP4POySwBwB5BvxSnPD8TZimZWxeuS7LAAAAAAEOAAB5BvxSnPD8TZimZWxeuS7LAACmsbwRAAA=",
+        "createdDateTime": "2025-02-11T22:33:05Z",
+        "lastModifiedDateTime": "2025-02-11T22:33:05Z",
+        "changeKey": "EQAAABYAAAB5BvxSnPD8TZimZWxeuS7LAACminn+",
+        "categories": [
+            "Test"
+        ],
+        "parentFolderId": "AAMkAGU5NjgzOTYzLTk0MDgtNDk0NC05ODFlLWI4M2NiNWU1ZmVlZgAuAAAAAADlWSRYQWY6RYskcP4POySwAQB5BvxSnPD8TZimZWxeuS7LAAAAAAEOAAA=",
+        "birthday": "1990-01-01T11:59:00Z",
+        "fileAs": "",
+        "displayName": "Test Contact",
+        "givenName": "Test",
+        "initials": null,
+        "middleName": null,
+        "nickName": null,
+        "surname": "Contact",
+        "title": null,
+        "yomiGivenName": null,
+        "yomiSurname": null,
+        "yomiCompanyName": null,
+        "generation": null,
+        "imAddresses": [],
+        "jobTitle": "Fake Title",
+        "companyName": "Fake Company, LLC",
+        "department": "Fake Department",
+        "officeLocation": null,
+        "profession": null,
+        "businessHomePage": null,
+        "assistantName": "",
+        "manager": "",
+        "homePhones": [],
+        "mobilePhone": "1234567890",
+        "businessPhones": [],
+        "spouseName": "",
+        "personalNotes": "Fake Notes Notes Notes",
+        "children": [],
+        "emailAddresses": [
+            {
+                "name": "tcontact@example.com",
+                "address": "tcontact@example.com"
+            }
+        ],
+        "homeAddress": {
+            "street": "123 Fake St",
+            "city": "New York",
+            "state": "NY",
+            "countryOrRegion": "USA",
+            "postalCode": "10001"
+        },
+        "businessAddress": {},
+        "otherAddress": {}
+    },
+    {
+        "@odata.etag": "W/\"EQAAABYAAAB5BvxSnPD8TZimZWxeuS7LAACminng\"",
+        "id": "AAMkAGU5NjgzOTYzLTk0MDgtNDk0NC05ODFlLWI4M2NiNWU1ZmVlZgBGAAAAAADlWSRYQWY6RYskcP4POySwBwB5BvxSnPD8TZimZWxeuS7LAAAAAAEOAAB5BvxSnPD8TZimZWxeuS7LAACmsbwQAAA=",
+        "createdDateTime": "2025-02-11T22:31:21Z",
+        "lastModifiedDateTime": "2025-02-11T22:31:21Z",
+        "changeKey": "EQAAABYAAAB5BvxSnPD8TZimZWxeuS7LAACminng",
+        "categories": [],
+        "parentFolderId": "AAMkAGU5NjgzOTYzLTk0MDgtNDk0NC05ODFlLWI4M2NiNWU1ZmVlZgAuAAAAAADlWSRYQWY6RYskcP4POySwAQB5BvxSnPD8TZimZWxeuS7LAAAAAAEOAAA=",
+        "birthday": null,
+        "fileAs": "",
+        "displayName": "Ted Lano",
+        "givenName": "Ted",
+        "initials": null,
+        "middleName": null,
+        "nickName": null,
+        "surname": "Lano",
+        "title": null,
+        "yomiGivenName": null,
+        "yomiSurname": null,
+        "yomiCompanyName": "",
+        "generation": null,
+        "imAddresses": [],
+        "jobTitle": "",
+        "companyName": null,
+        "department": "",
+        "officeLocation": "",
+        "profession": null,
+        "businessHomePage": "",
+        "assistantName": "",
+        "manager": "",
+        "homePhones": [],
+        "mobilePhone": "5128435266",
+        "businessPhones": [],
+        "spouseName": "",
+        "personalNotes": "",
+        "children": [],
+        "emailAddresses": [
+            {
+                "name": "ted@nntin.com",
+                "address": "ted@nntin.com"
+            }
+        ],
+        "homeAddress": {},
+        "businessAddress": {},
+        "otherAddress": {}
+    }
+]

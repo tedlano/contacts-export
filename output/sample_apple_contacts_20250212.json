@@ -1,0 +1,19 @@
+[
+    {
+        "version": "3.0",
+        "prodid": "-//Apple Inc.//macOS 15.3//EN",
+        "n": " Sample  Contact ",
+        "fn": "Sample Contact",
+        "tel": [
+            {
+                "type": [
+                    "CELL",
+                    "VOICE",
+                    "pref"
+                ],
+                "number": "(123) 456-7890"
+            }
+        ],
+        "bday": "1990-01-01"
+    }
+]
