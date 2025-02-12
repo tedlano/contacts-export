@@ -1,3 +1,7 @@
 env
 input/*
+output/*
 .env
+
+!.gitkeep
+!output/sample*
