@@ -1,4 +1,5 @@
 # Contacts Exporter
+![Architecture Diagram](Architecture_Diagram.png)
 
 ## Microsoft Graph API
 Use Microsoft Graph API to extract all contacts
